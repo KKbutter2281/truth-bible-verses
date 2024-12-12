@@ -4,8 +4,8 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Biblical Truths',
-  description: 'Exploring the Power of Truth in Scripture',
+  title: 'Bible Verses',
+  description: 'Exploring Biblical Truths for Teens',
 }
 
 export default function RootLayout({
