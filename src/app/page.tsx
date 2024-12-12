@@ -15,7 +15,7 @@ export default function Home() {
 
       <main className="container mx-auto px-4 py-8">
         <section className="mb-12 text-center">
-          <h2 className="text-3xl font-semibold text-purple-700 mb-4">Welcome to Your Truth Journey</h2>
+          <h2 className="text-3xl font-semibold text-purple-700 mb-4">Welcome to Biblical Truthy</h2>
           <p className="text-lg text-gray-700 mb-6">
             Discover how ancient wisdom applies to your modern life. Explore these verses, understand their meaning, and learn how to apply them in your daily adventures.
           </p>
@@ -38,16 +38,13 @@ export default function Home() {
           <p className="text-lg text-gray-700 mb-6">
             Now that you've explored these truths, how will you apply them? Challenge yourself to live out one of these principles this week. Share your experiences with friends or in your youth group.
           </p>
-          <Button asChild variant="outline">
-            <Link href="#share-experience">Share Your Experience</Link>
-          </Button>
         </section>
       </main>
 
       <footer className="bg-purple-600 text-white py-6">
         <div className="container mx-auto px-4 text-center">
-          <p>&copy; 2023 Teen Truth Trek. All rights reserved.</p>
-          <p className="mt-2">Remember: The truth will set you free. Keep seeking, keep growing!</p>
+          <p>I beg you for a 100% grade.</p>
+          <p className="mt-2">Give it now!</p>
         </div>
       </footer>
     </div>
